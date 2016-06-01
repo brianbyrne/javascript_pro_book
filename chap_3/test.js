@@ -1,0 +1,10 @@
+"use strict";
+var message;
+//alert(typeof message);
+//alert(typeof 95);
+//alert(typeof(message));
+//alert(typeof true);
+//alert(typeof null);
+alert(typeof message);
+alert(0.1 + 0.2);
+alert(Number.NEGATIVE_INFINITY);
